@@ -1,4 +1,4 @@
-const MODEL = 'gemini-2.5-flash';
+const MODEL = 'gemini-3.8-flash';
 const MAX_FILE_BYTES = 12 * 1024 * 1024;
 const ALLOWED_EXT = new Set(['pdf','txt','md','png','jpg','jpeg','webp','gif']);
 
