@@ -1,0 +1,7 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "aravind-ai-note-maker-api",
+  "main": "src/index.js",
+  "compatibility_date": "2026-10-01",
+  "secrets": {"required": ["GEMINI_API_KEY"]}
+}
