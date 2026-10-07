@@ -144,9 +144,11 @@ Make sure every unit, topic, sub-topic and micro-topic is covered.`
               role: 'user',
               parts
             }],
-            generationConfig: {
-              maxOutputTokens: 24000,
-              temperature: 0.3
+           generationConfig: {
+            maxOutputTokens: 12000,
+            thinkingConfig: {
+              thinkingLevel: "low"
+            }
             }
           })
         }
