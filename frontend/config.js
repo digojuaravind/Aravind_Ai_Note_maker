@@ -1,3 +1,3 @@
 window.APP_CONFIG = {
-  API_URL: "https://YOUR-WORKER.YOUR-SUBDOMAIN.workers.dev"
+  API_URL: "https://aravind-ai-note-maker-api.naniaravind369.workers.dev/"
 };
